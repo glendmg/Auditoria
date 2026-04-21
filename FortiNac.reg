@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Bradford Networks\Persistent Agent]
+"allowedServers"="pgr-fortinac.pgr.go.cr"
+"homeServer"="pgr-fortinac.pgr.go.cr"
+"ShowIcon"=dword:00000000
+"restrictRoaming"=dword:00000001
+"LoginDialogDisabled"=dword:00000001
+"securityEnabled"=dword:00000001
+"ClientStateEnabled"=dword:00000000
